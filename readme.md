@@ -1,1 +1,13 @@
 ## curso Git desde cero
+
+### Flujo de trabajo básico en Git
+1. Modificas una seria de archivos en tu directorio de trabajo
+2. Preparas los archivos, añadiendolos a tu área de preparacion
+
+
+### Configurando Git por primera vez
+
+git config --global user.name "Ricado Bueno"
+git config --global user.email "ricardo_23_91@hotmail.com"
+git config --global core.editor 
+git config --list
